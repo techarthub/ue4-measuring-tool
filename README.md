@@ -1,4 +1,4 @@
-![](measuring-tool-full.jpg)
+![](measuring-tool-large.jpg)
 # ue4-measuring-tool
 A simple distance measuring tool for Unreal Engine 4, created by Nick Mower.
 
